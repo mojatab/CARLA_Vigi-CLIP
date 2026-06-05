@@ -11,7 +11,7 @@ The system integrates:
 
 - Driver Gaze Estimation (TGGNet)
 - Face Anti-Spoofing (RGB-Depth-IR)
-- Driver Action Recognition (ViFi-CLIP)
+- Driver Action Recognition (Vigi-CLIP)
 - Intel RealSense RGB-D Sensing
 - CARLA Driving Simulation
 - Real-Time Visualization and Recording
